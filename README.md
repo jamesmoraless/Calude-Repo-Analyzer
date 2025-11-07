@@ -49,3 +49,4 @@ The workflow will execute immediately and you can monitor its progress in real-t
 - **Slack not receiving messages**: Verify your `SLACK_WEBHOOK_URL` secret is correctly configured.
 - **Claude errors**: Check that your `ANTHROPIC_API_KEY` is valid and has sufficient credits.
 
+read meeeeeeee
